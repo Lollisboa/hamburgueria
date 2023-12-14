@@ -465,6 +465,24 @@ footer{
     }
 }
 
+@media (max-width: 420px) {
+    .conteudo-principal h1{
+        margin: 2px;
+    }
+    .conteudo-principal h2{
+        margin: 2px;
+    }
+    .btn .reservar{
+        text-align: center;
+    }
+    .btn .montar{
+        text-align: center;
+    }
+    .contatos-secao{
+        color: #e6e6e6;
+    }
+}
+
 @media (max-width: 645px) {
     .sobre-nos img {
         width: 400px;
