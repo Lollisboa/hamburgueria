@@ -343,7 +343,7 @@ footer{
 @media (max-width: 1200px) {
     .main {
         display: block;
-
+        
     }
 
     .sobre-nos img {
@@ -351,15 +351,15 @@ footer{
         margin-left: -2px;
     }
 
-
+    
 }
 
 @media (max-width: 980px) {
-
+   
     html {
         font-size: 50%;
     }
-
+    
 }
 
 @media (max-width: 870px) {
@@ -386,7 +386,7 @@ footer{
     .menu-toggle {
         width: 40px;
         height: 30px;
-
+        
 
     }
 
@@ -416,14 +416,14 @@ footer{
 
     .content.on .list-menu {
         display: block;
-
+        
     }
 
     .content.on .list-menu li {
         text-align: center;
         display: flex;
         justify-content: center;
-
+        
     }
 
     .content.on .list-menu li a {
@@ -447,12 +447,12 @@ footer{
         display: block;
         text-align: center;
         font-size: 2rem;
-
+        
     }
 
     .contatos-secao div {
         margin: 2rem;
-
+        
     }
 
 }
@@ -462,24 +462,6 @@ footer{
     .conteudo-principal h1 {
         width: 350px;
         text-align: center;
-    }
-}
-
-@media (max-width: 420px) {
-    .conteudo-principal h1{
-        margin: 2px;
-    }
-    .conteudo-principal h2{
-        margin: 2px;
-    }
-    .btn .reservar{
-        text-align: center;
-    }
-    .btn .montar{
-        text-align: center;
-    }
-    .contatos-secao{
-        color: #e6e6e6;
     }
 }
 
@@ -502,7 +484,7 @@ footer{
 
      .contatos-secao {
        width: 200px;
-
+        
     }
     .conteudo-principal h2 {
         width: 200px;
@@ -535,7 +517,5 @@ footer{
         width: 200px;
      }
 
-
+    
 }
-
-
