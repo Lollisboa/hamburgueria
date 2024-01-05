@@ -92,7 +92,7 @@ html {
     background-position: center center;
     background-size: cover;
     background-repeat: no-repeat;
-    background-position-y: -50px;
+    background-position-y: 40px;
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -103,15 +103,15 @@ html {
   display: flex;
   flex-direction: column;
   align-items: center;
-  justify-content: center;
+  justify-content: flex-start;
 
 }
 
 .first-section h1{
     color: #ffc506;
-    font-size: 6rem;
+    font-size: 5rem;
     text-transform: uppercase;
-    margin-bottom: 1rem;
+    margin-bottom: 2rem;
     font-family: 'Indie Flower', cursive;
 }
 
@@ -131,6 +131,7 @@ html {
     text-transform: uppercase;
     background-color: #ffc506;
     border-radius: 10px;
+    align-items: center;
     color: black;
     font-weight: 700;
     transition: all 400ms ease-in;
@@ -147,7 +148,7 @@ html {
     width: 480px;
     display: flex;
     justify-content: space-between;
-   
+    align-items: center;
 }
 
 /* sobre nos */
@@ -163,11 +164,11 @@ html {
 }
 
 .sobre-nos img{
-    width: 400px;
-    height: 400px;
+    width: 500px;
+    height: 500px;
     margin-top: 10rem;
     margin-left: 10rem;
-    border: 2px solid rgb(155, 155, 155);
+    border: 3px solid rgb(155, 155, 155);
 }
 
 
