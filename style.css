@@ -355,6 +355,11 @@ footer{
     
 }
 
+
+
+
+/*RESPOONSIVOOOOOOOOOOOOO*/
+
 @media (max-width: 980px) {
    
     html {
@@ -363,7 +368,7 @@ footer{
     
 }
 
-@media (max-width: 870px) {
+@media (max-width: 890px) {
     .content {
         justify-content: space-between;
         padding: 0px 40px;
@@ -444,16 +449,11 @@ footer{
         transform: rotate(-45deg) translate(20px, -6px);
     }
 
-    .contatos-secao {
-        display: block;
-        text-align: center;
-        font-size: 2rem;
-        
-    }
-
-    .contatos-secao div {
-        margin: 2rem;
-        
+    .btn button {
+        width: 230px;
+        height: 60px;
+        cursor: pointer;
+       
     }
 
 }
@@ -496,6 +496,7 @@ footer{
         width: 150px;
     }
 }
+
 
 @media (max-width: 399px) {
 
